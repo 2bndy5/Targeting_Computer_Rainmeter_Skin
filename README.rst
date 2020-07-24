@@ -1,5 +1,3 @@
-.. image:: https://github.com/2bndy5/Targeting_Computer_Rainmeter_Skin/workflows/Anti-virus%20Check/badge.svg
-    :target: https://github.com/2bndy5/Targeting_Computer_Rainmeter_Skin/actions?query=workflow%3A%22Anti-virus+Check%22
 
 .. image:: https://github.com/2bndy5/Targeting_Computer_Rainmeter_Skin/workflows/RMSKIN%20Packager/badge.svg
     :target: https://github.com/2bndy5/Targeting_Computer_Rainmeter_Skin/actions?query=workflow%3A%22RMSKIN+Packager%22
