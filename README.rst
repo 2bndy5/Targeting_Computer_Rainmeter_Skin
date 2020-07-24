@@ -18,7 +18,8 @@ Targeting Computer
 This is the home for developing Targeting Computer. A Rainmeter skin
 that mimics the Targeting computer animation as seen in Star Wars
 Episode 4. I specifically made this for
-`GioBonvi's Into Space Skin <https://www.deviantart.com/giobonvi/art/Into-space-Rainmeter-Layout-663394380>`_, but it can be used freely.
+`GioBonvi's Into Space Skin <https://www.deviantart.com/giobonvi/art/Into-space-Rainmeter-Layout-663394380>`_,
+but it can be used freely.
 The animation cycles every minute. To adjust size of skin simply
 adjust the variable AnimationW and the height will be calculated
 automatically. The date and time section (including font size) is
