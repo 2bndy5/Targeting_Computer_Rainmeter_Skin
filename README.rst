@@ -24,6 +24,10 @@ automatically. The date and time section (including font size) is
 placed according to the calculated height. The font was made by
 GioBonvi & taken from the "into Space" skin mentioned above.
 
+.. image:: https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/9d354760-79b7-44eb-9a4c-5fc831468200/daz82zi-5281c7aa-7896-4c13-89f4-65b45e422e2e.png/v1/fill/w_1004,h_796,q_70,strp/xwing_targeting_computer_1_0_by_2bndy5_daz82zi-pre.jpg
+    :alt: Preview image
+    :target: https://www.deviantart.com/2bndy5/art/Xwing-Targeting-Computer-1-0-663825438
+
 Rainmeter required
 ##################
 
